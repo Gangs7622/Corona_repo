@@ -1,2 +1,7 @@
-# Corona_repo
-for practicing git commands
+# Starter Web Project
+
+##Introduction
+
+##Purpose
+
+# How to contribute
